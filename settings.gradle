@@ -1,0 +1,6 @@
+rootProject.name = 'CSVtoJSON'
+include 'csv'
+include 'untitled'
+include 'csv'
+include 'xml'
+
